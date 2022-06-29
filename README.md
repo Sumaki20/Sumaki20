@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning C# and unity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaki20)](api/top-langs?username=Sumaki20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](api/top-langs?username=Sumaki20)
 
 <!--
 **Sumaki20/Sumaki20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
