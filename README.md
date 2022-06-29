@@ -2,6 +2,9 @@
 ✨สวัสดีครับผม พงศ์ศกรณ์ หรือว่า มาส ก็ได้ครับสนใจทางด้านการเขียนโปรแกรมและการพัฒนาเกมอย่างมาก✨
 
 🌱 I’m currently learning C# and unity
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumaki20)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sumaki20/Sumaki20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
